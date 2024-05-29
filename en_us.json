@@ -37,7 +37,7 @@
   "lacReload": "Reload configuration",
   "lacReloadSuccess": "Reloaded configuration, some changed may not apply until restart.",
   "sessionContinue": "Your last login session was continued from %sec% seconds ago.",
-  "messageLogin": "Please log in using /login <password>",
+  "messageLogin": "Please log in using /login <password>(Don't use your username as password, it will be easy to crack)",
   "messageRegister": "Please register using /register <password>",
   "messageRegister2": "Please register using /register <password> <password again>",
   "errorRefreshProfile": "Your account was modified by a third party, please rejoin!",
